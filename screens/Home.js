@@ -586,7 +586,8 @@ export default Home
 const styles = StyleSheet.create({
     container: {
         flex: 1,
-        backgroundColor: COLORS.lightGray4
+        backgroundColor: COLORS.lightGray4,
+        marginTop:25
     },
     shadow: {
         shadowColor: "#000",
